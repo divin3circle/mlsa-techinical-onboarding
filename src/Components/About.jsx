@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "ReactJs",
   "Java",
-  "YailwindCss",
+  "TailwindCss",
   "Web Design",
   "Enginnering",
   "C#",
